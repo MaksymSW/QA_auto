@@ -1,3 +1,4 @@
+# ${\color{red}Hello}$ ${\color{green}world!}$
 
 QA_HW_01
     Выполните следующие задания:
